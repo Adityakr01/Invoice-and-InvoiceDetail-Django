@@ -52,4 +52,13 @@ Step 5: Admin login
   password: password  
   you can access all the data 
 
+# Screenshot
+![image](https://github.com/user-attachments/assets/08868814-7fc6-4d10-a297-82ec109a17a3)
+
+![image](https://github.com/user-attachments/assets/5b59ea63-c6e0-49f2-9c6d-0911b993b4be)
+![image](https://github.com/user-attachments/assets/c495adde-ee32-4a78-afb0-2273c30ec897)
+![image](https://github.com/user-attachments/assets/cf233392-5771-4ad8-ba9e-ba4e89c8a614)
+
+
+
 
